@@ -1,1 +1,6 @@
-
+git checkout -b dift
+cp С:Пользователи/user/Загрузки/Trollface.svg.png
+git add Trollface.svg.png
+![Мем](Trollface.svg.png)
+git commit -m "Добавлен мемчик в ветку dift"
+git push origin dift
